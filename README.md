@@ -40,4 +40,5 @@ Telecom customer churn dataset containing customer demographics, services, and a
 - Create retention offers for high-charge customers.
 
 ## Dashboard Preview
-![DashBoard](customer-churn.png)
+
+![DashBoard](Images/customer-churn.png)
