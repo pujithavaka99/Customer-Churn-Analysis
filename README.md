@@ -64,6 +64,7 @@ The Power BI dashboard includes:
 - Customer distribution visuals
 
 ## Project Structure
+```
 Customer-Churn-Analysis
 │
 ├── data
@@ -76,6 +77,7 @@ Customer-Churn-Analysis
 │ └── churn_dashboard.pbix
 │
 └── README.md
+```
 
 ## How to Run the Project
 1. Clone the repository:
@@ -108,4 +110,5 @@ Aspiring Data Analyst
 
 - GitHub: https://github.com/pujithavaka99  
 - LinkedIn: https://www.linkedin.com/in/pujithavaka99  
+
 
